@@ -110,7 +110,7 @@ Durum 4: Eğer net <= 5 ise:
 | Doğru | Yanlış | Beklenen | Programın sonucu | Doğru mu? |
 |---|---|---|---|---|
 | 20 | 0 | Net 20, Çok iyi | 0=boş Net=20, Çok iyi | Doğru|
-| 15 | 4 |  | 1=boş Net=14 İyi |Doğru |
+| 15 | 4 | Net 14, iyi | 1=boş Net=14 İyi |Doğru |
 | 10 | 8 | Net 8, Orta | 2=boş Net=8 Orta | Doğru|
 | 5 | 0 | Net 5, Geliştirilmeli | 15=boş Net=5 Geliştirilmeli |Doğru |
 | 0 | 20 | Net -5, Geliştirilmeli |0=boş Net = -5 Geliştirilmeli | Doğru|
