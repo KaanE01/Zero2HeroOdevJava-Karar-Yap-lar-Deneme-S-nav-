@@ -39,11 +39,6 @@ kullanıcın girdiği doğru yanlış değerleriyle boş soru sayısını netini
 
 
 ## 5. Akış Şeması
-
-![Akış Şeması](docs/akis-semasi.png)
-
-## 6. Başarı Durumu Koşulları
-
 Doğru Sayısı Girişi:
 
 Ekrana "Ogrencinin dogru sayisini giriniz" yazdırılır.
@@ -103,6 +98,11 @@ Durum 4: Eğer net <= 5 ise:
 "ogrencinin bos sayisi +boş+ net sayisi ise +net+ Ogrencinin deneme sonucu gelistirilmeli" yazdırılır ve program durur (return).
 
 "uygulamayi kullandiginiz icin tesekkurler" yazdırılır ve program sonlanır.
+
+
+## 6. Başarı Durumu Koşulları
+
+
 
 
 ## 7. Test Sonuçları
